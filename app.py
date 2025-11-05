@@ -602,7 +602,7 @@ def create_interface():
     with gr.Blocks(title="DC Visualizer - Document Structure Viewer") as app:
         # Header
         gr.Markdown("""
-        # 📄 DC Visualizer - Dynaminc Content Viewer
+        # 📄 DC Visualizer - Dynamic Content Viewer
         
         This tool visualizes PDF document structure by displaying pages with bounding boxes
         overlaid on extracted elements. Each bounding box corresponds to a structural element
